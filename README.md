@@ -41,9 +41,8 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<div align="center">
-    [![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeddiinn)](https://github.com/eeddiinn/github-readme-stats)
-</div>
+
+
 
 
 
