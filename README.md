@@ -39,9 +39,8 @@ Here are some ideas to get you started:
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeddiinn%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
         </a>
     </div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeddiinn&hide=contribs,prs&show_icons=true&theme=graywhite)
-
+   
+[![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=eeddiinn&hide_title=true&show_icons=true&disable_animations=true&theme=graywhite)](https://github.com/eeddiinn)
 
 
 
