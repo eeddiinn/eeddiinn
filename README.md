@@ -1,57 +1,71 @@
 
-<!--
-**eeddiinn/eeddiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7a7a7a&height=180&text=Yejin's%20Github%20&animation=&fontColor=ffffff&fontSize=50" />
+
+<h1>✿ Yejin's GitHub ✿</h1>
+
+<br/>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<br/>
+
+<h3>⚙️ Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-7F52FF?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-E5E7EB?style=for-the-badge&logo=notion&logoColor=black" />
+</p>
+
+<br/>
+
+<hr/>
+
+<h3>🌷 My GitHub Garden</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://render.gitanimals.org/farms/eeddiinn"
+        width="350"
+        alt="GitAnimals Farm"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeddiinn&theme=nord_bright"
+        width="350"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>💌 Contact</h3>
+
+<p>
+  <a href="mailto:gdw4013@naver.com">
+    <img
+      src="https://img.shields.io/badge/gdw4013%40naver.com-64748B?style=for-the-badge&logo=naver&logoColor=white"
+      alt="Naver Email"
+    />
+  </a>
+</p>
+
 </div>
-
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/eeddiinn"/>
-</a>
-
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🔨 Tech Stack 🔨</h2><br>
-    <div style="margin: 0 auto; text-align: center;" align="center">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    </div>
-</div>
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📞 Contact 📞</h2><br>
-    <div align="center">
-        <a href="mailto:gdw4013@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gdw4013@gmail.com">
-        </a>
-    </div><br>
-    <div align="center">
-        <a href="https://hits.seeyoufarm.com">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeddiinn%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
-    </div>
-
-    
-   
-[![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=eeddiinn&hide_title=true&show_icons=true&disable_animations=true&theme=graywhite)](https://github.com/eeddiinn)
-
-
-
-
-
-
-    
