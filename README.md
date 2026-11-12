@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7a7a7a&height=180&text=Yejin's%20Github%20&animation=&fontColor=ffffff&fontSize=50" />
 </div>
+
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/eeddiinn"/>
+</a>
+
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🔨 Tech Stack 🔨</h2><br>
     <div style="margin: 0 auto; text-align: center;" align="center">
@@ -39,6 +44,8 @@ Here are some ideas to get you started:
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feeddiinn%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
         </a>
     </div>
+
+    
    
 [![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=eeddiinn&hide_title=true&show_icons=true&disable_animations=true&theme=graywhite)](https://github.com/eeddiinn)
 
